@@ -14,3 +14,5 @@
 - JSON é mais verboso (maior tamanho)
 - CSV é simples mas menos eficiente
 - Parquet é muito mais otimizado para leitura analítica
+
+https://github.com/ItaloLuque/desafio-s1-formatos
